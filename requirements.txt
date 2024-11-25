@@ -1,0 +1,9 @@
+numpy
+pandas
+pyspark
+igraph
+networkx
+snapml
+scikit-learn
+pyarrow
+fastparquet
