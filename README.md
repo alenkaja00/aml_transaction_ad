@@ -1,4 +1,4 @@
-# Self-Supervised Learning with Graphical Context to Effectively Capture Complex Money Laundering Activities
+# Unsupervised Learning with Graphical Context to Effectively Capture Complex Money Laundering Activities
 ### Framework
 ![Framework Overview](figures/framework-overview.png)
 
